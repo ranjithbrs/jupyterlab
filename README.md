@@ -1,3 +1,14 @@
+# 📌 Open Source Fork Notice & Attribution
+
+> [!NOTE]
+> **Upstream Project**: This repository is a personal study fork of the official [Project Jupyter: JupyterLab](https://github.com/jupyterlab/jupyterlab). All original codebase design, branding, and intellectual property belong entirely to the **Project Jupyter Contributors**.  
+> **License**: This project fully preserves the original [Modified BSD License (BSD-3-Clause)](LICENSE).  
+> **Purpose of this Fork**: Maintained by [@ranjithbrs](https://github.com/ranjithbrs) for exploring JupyterLab's modular TypeScript extension architecture, studying component plugin systems, and conducting local development experimentation.  
+> **Modifications**: This fork currently tracks upstream reference code for learning purposes. Any experimental extensions are tested locally or on dedicated branches and are not presented as an independent product.  
+> *For official releases, documentation, and contributing to the core project, please visit the upstream repository at [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab).*
+
+---
+
 **[Installation](#installation)** |
 **[Documentation](https://jupyterlab.readthedocs.io)** |
 **[Contributing](#contributing)** |
